@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mavenmerge:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="maven-merge.war">
+      <element id="artifact" artifact-name="mavenmerge:war exploded" />
+    </root>
+  </artifact>
+</component>
